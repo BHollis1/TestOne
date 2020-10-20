@@ -9,5 +9,6 @@ namespace TestOne
     public class TestOne
     {
         public int MDName { get; set; }
+        public string TomRambo { get; set; }
     }
 }
