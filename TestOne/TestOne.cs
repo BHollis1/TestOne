@@ -10,5 +10,6 @@ namespace TestOne
     {
         public int MDName { get; set; }
         public int BetsyHollis { get; set; }
+        public string TomRambo { get; set; }
     }
 }
