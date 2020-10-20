@@ -9,5 +9,6 @@ namespace TestOne
     public class TestOne
     {
         public int MDName { get; set; }
+        public int BetsyHollis { get; set; }
     }
 }
